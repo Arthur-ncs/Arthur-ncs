@@ -1,4 +1,4 @@
-# Prazer,eu sou o Arthur
+# Prazer, eu sou o Arthur
 
 ### Um pouquinho sobre mim
 
@@ -20,9 +20,9 @@
 
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/lbguilherme">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-ncs&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-ncs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Arthur-ncs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-ncs&layout=compact&langs_count=7&theme=vue-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-ncs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Contatos 🛰️
