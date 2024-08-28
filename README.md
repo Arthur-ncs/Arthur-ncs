@@ -7,30 +7,31 @@
 </div>
 <br/>
 
-Tenho 20 anos e moro em Belo Horizonte-MG.<br/>
-Estou estudando **Kotlin** em conjunto com meu curso de **Tecnólogo em Análise e Desenvolvimento de Sistemas.**<br/>
-<br/>
-**Por que desenvolver aplicativos, Arthur?** <br/>
-De forma resumida, eu costumava criar alguns designs alternativos dos apps que tinha no meu smartphone na época,<br/>
-pois achava que o design deles era bem feio e tinha poucas funcionalidades (rsrs). Foi daí que surgiu a ideia de criar algo mais bonito e funcional.<br/>
+Tenho 20 anos e moro em Belo Horizonte, MG.<br/>
 
+Estou estudando **Java** em conjunto com meu curso de Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-🎵 Amo passar o tempo escutando músicas para dá uma "agitada" na rotina e ânimo também.<br/>
-📝 Me destaco nas artes, seja pintando em telas, desenhando, colorindo, enfim, tudo que está ligado a artes estou dentro!<br/>
-🪐 Adoro observar costelações, estudar o sistema solar então, ahhh nem se fala.<br/>
-😖 Não vivo sem deixar de cuidar das minhas "filhas" (plantas).<br/>
+Busco me tornar **Especialista Back-end em Java** com ecossistema **Spring** e seus padrões de arquitetura. Desejo construir sistemas robustos, 
+com máxima eficiência de entrega de desempenho e escalabilidade.
+Além de utilizar design de código limpo bem estruturado, <br/>
+garantido sempre a facilidade de manutenções posteriores a implementação.
 
-_**Cara, aproveita para explorar meu potfolio, e trocar idéias!**_ 🚀
+🎧 Amo passar o tempo escutando músicas para dá uma "agitada" na rotina e ânimo também. <br/>
+🛹 Curto demais andar de skate! não sou profissional. Mas um dia chego lá rsrs <br/>
+🪐 Adoro observar constelações, estudar o sistema solar então, nem se fala. <br/>
+🪴 Não vivo, sem deixar de cuidar das minhas "filhas".<br/>
+
+_**Cara, aproveita para trocar idéias! Explorar meu portfólio também, é claro... rsrsrs.**_ 🚀
 
 ### Tecnologias
 
-<a href="https://www.instagram.com/arthurnunes_345/?utm_source=qr&igsh=czlxeGhteXF4bXFp" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://www.instagram.com/arthurnunes_345/?utm_source=qr&igsh=czlxeGhteXF4bXFp" target="_blank"><img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"></a>
-<a href="https://www.instagram.com/arthurnunes_345/?utm_source=qr&igsh=czlxeGhteXF4bXFp" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
-![Arthur-ncs GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-ncs&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-ncs&layout=compact&theme=vue)
+![Arthur-ncs GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-ncs&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-ncs&layout=compact&theme=dark)
 
 
 
